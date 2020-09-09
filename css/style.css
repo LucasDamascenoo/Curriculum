@@ -1,0 +1,84 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  line-height: 32px;
+  background-color: #000;
+}
+
+main {
+  background-color: #fff;
+  margin: 30px;
+  padding: 15px;
+}
+
+footer {
+  color: #fff;
+  text-align: center;
+}
+
+header {
+  text-align: center;
+}
+
+strong {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+section {
+  padding: 20px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.titulo {
+  font-weight: bold;
+  padding: 20px;
+}
+
+.meu-nome {
+  font-size: 52px;
+}
+
+h1 {
+  font-size: 44px;
+}
+
+h2 {
+  font-size: 40px;
+  padding: 10px;
+}
+
+h3 {
+  font-size: 28px;
+}
+
+h4 {
+  font-size: 24px;
+}
+
+h3,
+h4,
+p {
+  padding: 10px;
+}
+
+.resumo {
+  width: 50%;
+  margin: 20px auto;
+}
+
+.experiencia {
+  background-color: rgb(202, 216, 221);
+}
+
+.icons i {
+  font-size: 45px;
+
+}
